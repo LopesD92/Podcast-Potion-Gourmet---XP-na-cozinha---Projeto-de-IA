@@ -49,8 +49,10 @@ Um podcast criado com auxilio de Inteligencia Artificial, desenvolvido durante o
 ## 👨‍💻 Autoria
 
 <p align="center">
+    
 Daniel Lopes  
 [GitHub](https://github.com/LopesD92) 
+    
 </p>
 
 
