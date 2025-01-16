@@ -21,7 +21,7 @@ Um podcast criado com auxilio de Inteligencia Artificial, desenvolvido durante o
 - [ChatGPT](https://chatgpt.com/) para geração de roteiro e conteudo.
 - [Criador de Imagens BING](https://www.bing.com/images/create?FORM=GDPCLS) para geração da imagem.
 - [DALL 3 Ultra - ChatGPT](https://chatgpt.com/g/g-T0cSa59Fg-dall-3-ultra) para geração da imagem.
-- [ElevenLabs](https://elevenlabs.io/app/home) para gerar o audio atraves do Text-To-Speech.
+- [ElevenLabs](https://elevenlabs.io/app/home) para gerar o audio atraves de Text-To-Speech.
 - [CapCut](https://www.capcut.com/pt-br/) para edição de audio.
 
 
